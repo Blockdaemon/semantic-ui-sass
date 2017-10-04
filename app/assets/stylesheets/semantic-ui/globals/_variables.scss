@@ -2,3 +2,13 @@ $import-google-fonts: true !default;
 $font-url: 'https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin,latin-ext' !default;
 $font-name: 'Lato' !default;
 $font-family: $font-name, 'Helvetica Neue', Arial, Helvetica, sans-serif !default;
+
+$primary-color: #4183C4 !default;
+$primary-highlight: #1e70bf !default;
+
+$primary-button-background: #2185D0 !default;
+$primary-button-background-hover: #1678c2 !default;
+$primary-button-background-focus: #0d71bb !default;
+$primary-button-background-active: #1a69a4 !default;
+$primary-button-background-sub: #1279c6 !default;
+$primary-button-color: #FFFFFF !default;
